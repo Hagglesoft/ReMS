@@ -1,5 +1,5 @@
 # HMS
-Description For Hospital Management App
+Description For Rental Management System
 
 
 
